@@ -1,0 +1,88 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+#first{
+    border: 0.5px solid lightgray;
+    box-shadow: 1px 1px 1px 1px none;
+    width: 25%;
+    height: 50%;
+    padding: 2% 4% 4% 4%;
+    margin-left:35%;
+    margin-top: 2%;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center;  */
+    padding: 2%;
+    margin:3% ;
+}
+.bttn{
+    background-color: rgba(0,149,246,255);
+    border: none;
+    padding: 2% 6%;
+    color: white;
+}
+.tow{
+    display: flex; 
+    justify-content: center; 
+    margin-top: 3%;
+}
+.two{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 2px;
+}
+.three a{
+    text-decoration: none;
+    color: rgb(60, 154, 236);
+}
+
+.four{
+    border: 0.5px solid lightgray;
+    box-shadow: 1px 1px 1px 1px none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25%;
+    height: 50%;
+    margin-left: 35%;
+    margin-top: 1%;
+    padding: 2%;
+}
+.four a{
+    text-decoration: none;
+    color: rgb(60, 154, 236);
+}
+.twww{
+    /* margin-left: 30%; */
+    padding: 2%;
+    
+}
+.pics{
+    display:flex;
+    justify-content: center;
+}
+.btn{
+    background-color: rgba(0,149,246,255);
+    border: none;
+    padding: 1%;
+}
+#i20{
+    display: flex;
+    flex-direction:row;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 5%  20%;
+}
+#i20 a{
+    text-decoration: none;
+    color: black;
+}
+.a24{
+    border: none;
+}
