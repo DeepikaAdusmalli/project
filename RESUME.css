@@ -1,0 +1,21 @@
+*{
+background-color:#d5dcd6;
+font-style: normal;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.one{
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+font-size:medium;
+}
+.A{
+    font-size: xx-large;
+}
+.two{
+    float:left;
+    padding-left: 35px;
+}
+
+
+
+
